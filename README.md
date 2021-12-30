@@ -3,6 +3,7 @@
 Project develop for study javascript, html and css
 The function of this project is to simulate a calculation of the amount required for a barbecue
 
+https://media1.giphy.com/media/faRthAcPk6W8uV1KsZ/giphy.gif?cid=790b7611cffa07f625e520c5cb7d8ede4bddc6dd61586b5c&rid=giphy.gif&ct=g
 
 ## 🖥 Suporte aos ambientes
 
