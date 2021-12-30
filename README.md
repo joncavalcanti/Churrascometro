@@ -1,7 +1,6 @@
 # Churrascometro
 
-Project develop for study javascript, html and css
-The function of this project is to simulate a calculation of the amount required for a barbecue
+Projeto criado para calcular quantidade necessária para churrasco de acordo com a quantidade de pessoas 
 
   <img align="center" alt="Jonathan-pic" height="350" style="border-radius:50px;" src="https://media1.giphy.com/media/faRthAcPk6W8uV1KsZ/giphy.gif?cid=790b7611cffa07f625e520c5cb7d8ede4bddc6dd61586b5c&rid=giphy.gif&ct=g">
 
